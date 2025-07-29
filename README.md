@@ -21,6 +21,7 @@ This Streamlit app predicts up to 15 possible diseases using input values from s
 ```bash
 git clone https://github.com/omargomez2/multi-disease-predictor.git
 cd disease-predictor-app
+```
 
 ## ⚠️ Disclaimer
 
