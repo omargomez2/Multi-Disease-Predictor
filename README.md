@@ -2,8 +2,6 @@
 
 This Streamlit app predicts up to 15 possible diseases using input values from standard lab tests, including blood, urine, and stool markers. It's built using machine learning (RandomForestClassifier) trained on synthetic data, and the UI is fully controlled via sliders for ease of use.
 
-![Screenshot](screenshot.png)
-
 ---
 
 ## 💡 Features
