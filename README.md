@@ -25,7 +25,7 @@ cd multi-disease-predictor
 
 ## ⚠️ Disclaimer
 
-This application is for **educational and demonstration purposes only**. It is not intended for real-world medical use or diagnosis.
+This app is for **educational and demonstration purposes only**. It is based on synthetic data and is not a diagnostic tool. Always consult a healthcare professional for real medical concerns.
 
 
 ## 📫 Contact
